@@ -1,4 +1,4 @@
-# 🎬 BookMyShow Clone
+# 🎬 BookMyShow Clone (In Dev)
 
 A full-stack **movie ticket booking application** inspired by BookMyShow, built using:
 
