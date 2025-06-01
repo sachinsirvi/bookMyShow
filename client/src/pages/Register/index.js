@@ -36,7 +36,7 @@ function Register() {
                         </Form.Item>
 
                         <Form.Item className="d-block">
-                            <Button type="primary" block htmlType="submit">
+                            <Button type="primary" block htmlType="submit" style={{ fontSize: "1rem", fontWeight: "600" }}>
                                 Register
                             </Button>
                         </Form.Item>
